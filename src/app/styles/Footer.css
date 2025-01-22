@@ -1,0 +1,10 @@
+/* Footer Styling */
+.footer-container {
+    margin-top: 4rem;
+    padding: 1.5rem 0; 
+    text-align: center;
+    background-color: #1E3A8A; 
+    color: white;
+    font-size: 1rem;
+  }
+  
